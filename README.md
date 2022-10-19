@@ -3,7 +3,7 @@
 </p>
 <b>Hi 👋 My name is José Tomás</b>
 
-Frontend Developer based in Chile 🇨🇱
+Frontend Developer based in Chile :chile:
 -----------------
 
 <b>Student of Computer and Telecommunications Engineering. </br></br>
