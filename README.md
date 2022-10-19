@@ -1,5 +1,5 @@
  <p align="center">
- <img src='https://media3.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif'/>
+ ![](https://github.com/JoseTomasSilvaz/cat-coding.gif)
 <b>@JoseTomasSilvaZ:</b>
  <br>
  <br>
