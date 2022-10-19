@@ -1,5 +1,5 @@
  <p align="center">
- <img src='https://media3.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif' width='120px'/>
+ <img src='https://media3.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif'/>
 <b>@JoseTomasSilvaZ:</b>
  <br>
  <br>
