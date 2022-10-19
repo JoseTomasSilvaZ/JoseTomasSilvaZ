@@ -6,7 +6,8 @@
 Frontend Developer based in Chile 🇨🇱
 -----------------
 
-<b>Currently studying Computer and Telecommunications Engineering. ⚛️ ReactJS lover 🐱‍💻 Currently working as Frontend Developer in [CDHDC](calculadora.dyatec.cl)</b>
+<b>Student of Computer and Telecommunications Engineering. </br></br>
+⚛️ ReactJS lover </br>🐱‍💻 Currently working as Frontend Developer in [CDHDC](http://calculadora.dyatec.cl)</b>
 </br>
 </br>
 
