@@ -1,5 +1,5 @@
  <p align="center">
- ![](https://github.com/JoseTomasSilvaz/cat-coding.gif)
+ ![](https://github.com/JoseTomasSilvaz/JoseTomasSilvaz/cat-coding.gif)
 <b>@JoseTomasSilvaZ:</b>
  <br>
  <br>
