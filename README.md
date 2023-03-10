@@ -3,15 +3,15 @@
 </p>
 <b>Hi 👋 My name is José Tomás</b>
 
-Frontend Developer based in Chile :chile:
+Fullstack Dev based in Chile :chile:
 -----------------
 Student of Computer and Telecommunications Engineering. </br>
 
-<b>⚛️ ReactJS lover </br>🐱‍💻 Currently working as Frontend Developer </b>
+<b>⚛️ ReactJS lover </br>🐱‍💻 Currently working as Fullstack Developer </b>
 </br>
 
 *   ✉️  You can contact me at [josetomassilvaz@gmail.com](mailto:josetomassilvaz@gmail.com)
-*   🤝  I'm open to collaborating on ReactJS based projects
+*   🤝  I'm open to collaborating on Javascript based projects
 *   💖  Cats
 ### Skills 
 <p align="left">
