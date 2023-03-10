@@ -7,7 +7,7 @@ Frontend Developer based in Chile :chile:
 -----------------
 Student of Computer and Telecommunications Engineering. </br>
 
-<b>⚛️ ReactJS lover </br>🐱‍💻 Currently working as Frontend Developer in [CDHDC](http://calculadora.dyatec.cl)</b>
+<b>⚛️ ReactJS lover </br>🐱‍💻 Currently working as Frontend Developer </b>
 </br>
 
 *   ✉️  You can contact me at [josetomassilvaz@gmail.com](mailto:josetomassilvaz@gmail.com)
