@@ -7,7 +7,7 @@ Fullstack Dev based in Chile :chile:
 -----------------
 Student of Computer and Telecommunications Engineering. </br>
 
-<b>⚛️ ReactJS lover </br>🐱‍💻 Currently working as Fullstack Developer </b>
+🐱‍💻 Currently working as Fullstack Developer </b>
 </br>
 
 *   ✉️  You can contact me at [josetomassilvaz@gmail.com](mailto:josetomassilvaz@gmail.com)
