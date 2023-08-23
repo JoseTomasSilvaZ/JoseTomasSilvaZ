@@ -1,18 +1,8 @@
-<p align=''> 
-<img src='https://media.tenor.com/cctV9EvJdAoAAAAC/cat-laptop.gif' width='250px'/>
-</p>
-<b>Hi 👋 My name is José Tomás</b>
+<b>👋 José Tomás</b>
 
-Fullstack Dev based in Chile :chile:
+Fullstack Dev 
 -----------------
 Student of Computer and Telecommunications Engineering. </br>
-
-🐱‍💻 Currently working as Fullstack Developer </b>
-</br>
-
-*   ✉️  You can contact me at [josetomassilvaz@gmail.com](mailto:josetomassilvaz@gmail.com)
-*   🤝  I'm open to collaborating on Javascript based projects
-*   💖  Cats
 ### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
