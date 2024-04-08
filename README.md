@@ -10,13 +10,20 @@ Working as freelance Fullstack software engineer, but on the lookout for oportun
 Solving problems, crafting modern and beautiful interfaces for the web.
 </p>
 
-#### My latest project
+#### My latest projects
 
 <p style="margin-top:1rem;">
   A fully typed NodeJS SDK to ease integrations with Flow payment gateway.
 </p>
 
 [Flow SDK](https://www.npmjs.com/package/flow-sdk)
+
+<p style="margin-top:1rem;">
+  A styled, customizable react component to show keboard shortcuts on the web.
+</p>
+
+[↗️✨ Cmmnd](https://www.npmjs.com/package/cmmnd)
+
 
 
 
