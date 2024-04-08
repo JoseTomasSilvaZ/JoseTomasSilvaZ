@@ -6,7 +6,7 @@
 #### Fullstack software engineer based in Chile.
 
 <p style="margin-top:1rem;">
-Working as freelance Fullstack software engineer, but on the lookout for oportunities to join a team where I can make a meaningful impact. <br/>
+Working as freelance Fullstack software engineer, but on the lookout for opportunities to join a team where I can make a meaningful impact. <br/>
 Solving problems, crafting modern and beautiful interfaces for the web.
 </p>
 
@@ -19,7 +19,7 @@ Solving problems, crafting modern and beautiful interfaces for the web.
 [Flow SDK](https://www.npmjs.com/package/flow-sdk)
 
 <p style="margin-top:1rem;">
-  A styled, customizable react component to show keboard shortcuts on the web.
+  A styled, customizable react component to show keyboard shortcuts on the web.
 </p>
 
 [↗️✨ Cmmnd](https://www.npmjs.com/package/cmmnd)
