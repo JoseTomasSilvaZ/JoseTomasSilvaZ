@@ -6,7 +6,7 @@
 #### Fullstack software engineer based in Chile.
 
 <p style="margin-top:1rem;">
-Working as freelance Fullstack software engineer, but on the lookout for opportunities to join a team where I can make a meaningful impact. <br/>
+Working as freelance Fullstack software engineer. Currently open to joining a development team <br/>
 Solving problems, crafting modern and beautiful interfaces for the web.
 </p>
 
