@@ -7,7 +7,7 @@
 
 <p style="margin-top:1rem;">
 Working as freelance Fullstack software engineer. Currently open to joining a development team. <br/>
-Solving problems, crafting modern and beautiful interfaces for the web.
+Solving problems, crafting interfaces for the web.
 </p>
 
 #### My latest projects
