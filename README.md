@@ -18,12 +18,6 @@ Solving problems, crafting interfaces for the web.
 
 [Flow SDK](https://www.npmjs.com/package/flow-sdk)
 
-<p style="margin-top:1rem;">
-  A styled, customizable react component to show keyboard shortcuts on the web.
-</p>
-
-[↗️✨ Cmmnd](https://www.npmjs.com/package/cmmnd)
-
 
 
 
