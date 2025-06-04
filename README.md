@@ -7,7 +7,7 @@
 
 <p style="margin-top:1rem;">
 Working as frontend engineer at BICE Lifeplan through Magnet.<br/>
-Crafting software that solves problems, and UIs that looks good.
+Crafting software that solves problems, and UIs that look good.
 </p>
 
 #### My latest projects
