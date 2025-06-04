@@ -6,8 +6,8 @@
 #### Fullstack software engineer based in Chile.
 
 <p style="margin-top:1rem;">
-Working as freelance Fullstack software engineer. Currently open to joining a development team. <br/>
-Solving problems, crafting interfaces for the web.
+Working as frontend engineer at BICE Lifeplan through Magnet .<br/>
+Crafting software that solves problems, and UIs that looks good.
 </p>
 
 #### My latest projects
