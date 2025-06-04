@@ -2,7 +2,7 @@
 <img style='width:150px; height:150px; border-radius:50%' src='https://github.com/JoseTomasSilvaZ/JoseTomasSilvaZ/assets/58149194/b5561684-55ff-4492-a19a-2c393c7446f5'/>
   
 ### José Tomás Silva
-[My site](https://www.josetomassilvaz.me)
+[My site](https://www.jtsz.dev)
 #### Fullstack software engineer based in Chile.
 
 <p style="margin-top:1rem;">
